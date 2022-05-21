@@ -11,6 +11,7 @@ double click on calculator.html
 
 ## Prints:
 
+### Versão funcional:
 ![print da calculadora](print-calculator.png)
 
 ### Versão obsoleta:
