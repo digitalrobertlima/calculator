@@ -1,10 +1,10 @@
 # A Simple Calculator
 
-Prints:
+## Prints:
 
 ![print da calculadora](print-calculator.png)
 
-Usage:
+## Usage:
 
 clone repo to local machine with git clone:
 ~~~
